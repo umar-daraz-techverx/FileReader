@@ -5,3 +5,17 @@ C:\Users\UmerDraz\source\repos\MyConverter\MyConverter\obj\Debug\MyConverter.csp
 C:\Users\UmerDraz\source\repos\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
 C:\Users\UmerDraz\source\repos\MyConverter\MyConverter\obj\Debug\MyConverter.exe
 C:\Users\UmerDraz\source\repos\MyConverter\MyConverter\obj\Debug\MyConverter.pdb
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\bin\Debug\MyConverter.exe.config
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\bin\Debug\MyConverter.exe
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\bin\Debug\MyConverter.pdb
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\bin\Debug\EntityFramework.dll
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\bin\Debug\EntityFramework.xml
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\obj\Debug\MyConverter.csprojAssemblyReference.cache
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.CopyComplete
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\obj\Debug\MyConverter.exe
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\obj\Debug\MyConverter.pdb
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\obj\Debug\MyConverter.Migrations.iniut.resources
+C:\Users\UmerDraz\source\repos\FileReader\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.GenerateResource.cache
